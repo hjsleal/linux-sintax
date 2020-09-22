@@ -1,0 +1,2 @@
+echo "this merge pdf files, remember enter onto directory where files is"
+pdftk <filename1>.pdf <filename2>.pdf > <outputfilename>.pdf
